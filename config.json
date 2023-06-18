@@ -99,7 +99,7 @@
       "placeholder_path": "./photos/Torronto/PXL_20230506_212009356.placeholder.jpg"
     }
   ],
-  "\uD83D\uDCCD Montreal [12022—12023]": [
+  "\uD83D\uDCCD Montreal [12022-12023]": [
     {
       "width": 4032,
       "height": 2268,
@@ -123,6 +123,14 @@
       "compressed_path": "./photos/Montreal/IMG-20220910-WA0021.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal/IMG-20220910-WA0021.placeholder.jpg"
+    },
+    {
+      "width": 3730,
+      "height": 3730,
+      "path": "./photos/Montreal/IMG_20230505_181959008_1685921954728.jpg",
+      "compressed_path": "./photos/Montreal/IMG_20230505_181959008_1685921954728.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal/IMG_20230505_181959008_1685921954728.placeholder.jpg"
     },
     {
       "width": 3072,
@@ -299,22 +307,6 @@
       "compressed_path": "./photos/Montreal/PXL_20230428_225627757.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal/PXL_20230428_225627757.placeholder.jpg"
-    },
-    {
-      "width": 1954,
-      "height": 4000,
-      "path": "./photos/Montreal/Snapchat-996272385.jpg",
-      "compressed_path": "./photos/Montreal/Snapchat-996272385.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal/Snapchat-996272385.placeholder.jpg"
-    },
-    {
-      "width": 8192,
-      "height": 4608,
-      "path": "./photos/Montreal/IMG_20230505_182045561.jpg",
-      "compressed_path": "./photos/Montreal/IMG_20230505_182045561.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal/IMG_20230505_182045561.placeholder.jpg"
     },
     {
       "width": 2268,
