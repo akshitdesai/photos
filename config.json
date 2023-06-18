@@ -3,26 +3,10 @@
     {
       "width": 4080,
       "height": 3072,
-      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.jpg",
-      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.placeholder.jpg"
-    },
-    {
-      "width": 4080,
-      "height": 3072,
       "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142844567.jpg",
       "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142844567.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142844567.placeholder.jpg"
-    },
-    {
-      "width": 4080,
-      "height": 3072,
-      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142014312.jpg",
-      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142014312.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142014312.placeholder.jpg"
     },
     {
       "width": 4142,
@@ -41,20 +25,36 @@
       "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142008922.placeholder.jpg"
     },
     {
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142014312.jpg",
+      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142014312.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142014312.placeholder.jpg"
+    },
+    {
+      "width": 3800,
+      "height": 3800,
+      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103516846_1687070159518.jpg",
+      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103516846_1687070159518.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103516846_1687070159518.placeholder.jpg"
+    },
+    {
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.jpg",
+      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.placeholder.jpg"
+    },
+    {
       "width": 1512,
       "height": 2688,
       "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/Snapchat-437908897.jpg",
       "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/Snapchat-437908897.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/Snapchat-437908897.placeholder.jpg"
-    },
-    {
-      "width": 8192,
-      "height": 4608,
-      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103517491.jpg",
-      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103517491.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103517491.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Montreal [12022-12023]": [
@@ -553,6 +553,22 @@
       "compressed_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20221218_021145337.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20221218_021145337.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20230107_200718951.jpg",
+      "compressed_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20230107_200718951.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20230107_200718951.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "path": "./photos/\ud83d\udccd Montreal [12022-12023]/IMG-20220904-WA0003.jpg",
+      "compressed_path": "./photos/\ud83d\udccd Montreal [12022-12023]/IMG-20220904-WA0003.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udccd Montreal [12022-12023]/IMG-20220904-WA0003.placeholder.jpg"
     },
     {
       "width": 2268,
