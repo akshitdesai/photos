@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Yet Another Photo Site
+title: Yet Another Photolog
 
 # The title on the web page
-full_name: Akshit
+full_name: Photolog
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -19,13 +19,13 @@ layout_style: ROWS
 spacing: 10
 
 # Boolean(true|false): Shuffle the photos on the album
-shuffle: false
+shuffle: true
 
 # Integer: Number of columns for square or columns
-columns: 4
+columns: 5
 
 # Integer: Max height for rows
-max_height: 400
+max_height: 800
 
 # Handle
 instagram: akshitdesai_
