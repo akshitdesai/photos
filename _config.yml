@@ -19,7 +19,7 @@ layout_style: ROWS
 spacing: 10
 
 # Boolean(true|false): Shuffle the photos on the album
-shuffle: true
+shuffle: false
 
 # Integer: Number of columns for square or columns
 columns: 5
