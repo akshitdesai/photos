@@ -3,6 +3,14 @@
     {
       "width": 4080,
       "height": 3072,
+      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.jpg",
+      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.placeholder.jpg"
+    },
+    {
+      "width": 4080,
+      "height": 3072,
       "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142844567.jpg",
       "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_142844567.min.jpg",
       "compressed": true,
@@ -39,14 +47,6 @@
       "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103517491.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/IMG_20230507_103517491.placeholder.jpg"
-    },
-    {
-      "width": 4080,
-      "height": 3072,
-      "path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.jpg",
-      "compressed_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udccd Niagara Falls [12023-05]/PXL_20230507_144137213.placeholder.jpg"
     },
     {
       "width": 1512,
@@ -569,22 +569,6 @@
       "compressed_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20221218_021145337.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20221218_021145337.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20230107_200718951.jpg",
-      "compressed_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20230107_200718951.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udccd Montreal [12022-12023]/PXL_20230107_200718951.placeholder.jpg"
-    },
-    {
-      "width": 1024,
-      "height": 768,
-      "path": "./photos/\ud83d\udccd Montreal [12022-12023]/IMG-20220904-WA0003.jpg",
-      "compressed_path": "./photos/\ud83d\udccd Montreal [12022-12023]/IMG-20220904-WA0003.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udccd Montreal [12022-12023]/IMG-20220904-WA0003.placeholder.jpg"
     },
     {
       "width": 2268,
