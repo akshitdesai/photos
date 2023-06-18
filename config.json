@@ -1,252 +1,102 @@
 {
-  "Travel Photography": [
+  "\uD83D\uDCCD Niagara Falls [12023-05]": [
     {
-      "width": 3730,
-      "height": 3730,
-      "path": "./photos/Travel Photography/IMG_20230505_181959008_1685921954728.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_20230505_181959008_1685921954728.min.jpg",
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Niagara Falls/PXL_20230507_142844567.jpg",
+      "compressed_path": "./photos/Niagara Falls/PXL_20230507_142844567.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_20230505_181959008_1685921954728.placeholder.jpg"
+      "placeholder_path": "./photos/Niagara Falls/PXL_20230507_142844567.placeholder.jpg"
     },
     {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Travel Photography/PXL_20230612_000936701.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230612_000936701.min.jpg",
+      "width": 4142,
+      "height": 5889,
+      "path": "./photos/Niagara Falls/IMG_20230507_111906005.jpg",
+      "compressed_path": "./photos/Niagara Falls/IMG_20230507_111906005.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230612_000936701.placeholder.jpg"
+      "placeholder_path": "./photos/Niagara Falls/IMG_20230507_111906005.placeholder.jpg"
     },
     {
-      "width": 3398,
-      "height": 3398,
-      "path": "./photos/Travel Photography/IMG_20230507_111906005_1685922400917.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_20230507_111906005_1685922400917.min.jpg",
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Niagara Falls/PXL_20230507_142008922.jpg",
+      "compressed_path": "./photos/Niagara Falls/PXL_20230507_142008922.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_20230507_111906005_1685922400917.placeholder.jpg"
+      "placeholder_path": "./photos/Niagara Falls/PXL_20230507_142008922.placeholder.jpg"
     },
     {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/Travel Photography/IMG_4594~2_1685923582813.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_4594~2_1685923582813.min.jpg",
+      "width": 8192,
+      "height": 4608,
+      "path": "./photos/Niagara Falls/IMG_20230507_103517491.jpg",
+      "compressed_path": "./photos/Niagara Falls/IMG_20230507_103517491.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_4594~2_1685923582813.placeholder.jpg"
+      "placeholder_path": "./photos/Niagara Falls/IMG_20230507_103517491.placeholder.jpg"
     },
     {
-      "width": 2849,
-      "height": 2849,
-      "path": "./photos/Travel Photography/PXL_20230522_222124383.MP~2_1685922516381.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230522_222124383.MP~2_1685922516381.min.jpg",
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Niagara Falls/PXL_20230507_144137213.jpg",
+      "compressed_path": "./photos/Niagara Falls/PXL_20230507_144137213.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230522_222124383.MP~2_1685922516381.placeholder.jpg"
+      "placeholder_path": "./photos/Niagara Falls/PXL_20230507_144137213.placeholder.jpg"
     },
     {
-      "width": 2973,
-      "height": 2973,
-      "path": "./photos/Travel Photography/PXL_20230604_015939272_1685923348169.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230604_015939272_1685923348169.min.jpg",
+      "width": 1512,
+      "height": 2688,
+      "path": "./photos/Niagara Falls/Snapchat-437908897.jpg",
+      "compressed_path": "./photos/Niagara Falls/Snapchat-437908897.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230604_015939272_1685923348169.placeholder.jpg"
-    },
+      "placeholder_path": "./photos/Niagara Falls/Snapchat-437908897.placeholder.jpg"
+    }
+  ],
+  "\uD83D\uDCCD Toronto [12023-05]": [
     {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Travel Photography/IMG-20230525-WA0008~2_1685922908287.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG-20230525-WA0008~2_1685922908287.min.jpg",
+      "width": 5920,
+      "height": 4608,
+      "path": "./photos/Torronto/IMG_20230506_202518330.jpg",
+      "compressed_path": "./photos/Torronto/IMG_20230506_202518330.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG-20230525-WA0008~2_1685922908287.placeholder.jpg"
-    },
-    {
-      "width": 2832,
-      "height": 2832,
-      "path": "./photos/Travel Photography/PXL_20221230_205247264.MP~2_1685920935206.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20221230_205247264.MP~2_1685920935206.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20221230_205247264.MP~2_1685920935206.placeholder.jpg"
+      "placeholder_path": "./photos/Torronto/IMG_20230506_202518330.placeholder.jpg"
     },
     {
       "width": 1022,
       "height": 1022,
-      "path": "./photos/Travel Photography/PXL_20230506_152751738_exported_291_1683517997878_1685921998969.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230506_152751738_exported_291_1683517997878_1685921998969.min.jpg",
+      "path": "./photos/Torronto/PXL_20230506_152751738_exported_291_1683517997878 (1).jpg",
+      "compressed_path": "./photos/Torronto/PXL_20230506_152751738_exported_291_1683517997878 (1).min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230506_152751738_exported_291_1683517997878_1685921998969.placeholder.jpg"
+      "placeholder_path": "./photos/Torronto/PXL_20230506_152751738_exported_291_1683517997878 (1).placeholder.jpg"
     },
     {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Travel Photography/IMG-20221002-WA0022_1685920133521.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG-20221002-WA0022_1685920133521.min.jpg",
+      "width": 1512,
+      "height": 2688,
+      "path": "./photos/Torronto/Snapchat-1536133035.jpg",
+      "compressed_path": "./photos/Torronto/Snapchat-1536133035.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG-20221002-WA0022_1685920133521.placeholder.jpg"
+      "placeholder_path": "./photos/Torronto/Snapchat-1536133035.placeholder.jpg"
     },
     {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/Travel Photography/photo_1685920243764.jpg",
-      "compressed_path": "./photos/Travel Photography/photo_1685920243764.min.jpg",
+      "width": 1877,
+      "height": 3337,
+      "path": "./photos/Torronto/PXL_20230507_112051504.MP.jpg",
+      "compressed_path": "./photos/Torronto/PXL_20230507_112051504.MP.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/photo_1685920243764.placeholder.jpg"
+      "placeholder_path": "./photos/Torronto/PXL_20230507_112051504.MP.placeholder.jpg"
     },
     {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Travel Photography/PXL_20230611_223826251.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230611_223826251.min.jpg",
+      "width": 1512,
+      "height": 2688,
+      "path": "./photos/Torronto/Snapchat-924067223.jpg",
+      "compressed_path": "./photos/Torronto/Snapchat-924067223.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230611_223826251.placeholder.jpg"
+      "placeholder_path": "./photos/Torronto/Snapchat-924067223.placeholder.jpg"
     },
     {
-      "width": 3284,
-      "height": 3284,
-      "path": "./photos/Travel Photography/PXL_20230522_220112822_1685922459662.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230522_220112822_1685922459662.min.jpg",
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Torronto/PXL_20230506_212009356.jpg",
+      "compressed_path": "./photos/Torronto/PXL_20230506_212009356.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230522_220112822_1685922459662.placeholder.jpg"
-    },
-    {
-      "width": 3800,
-      "height": 3800,
-      "path": "./photos/Travel Photography/PXL_20230422_203605986_1685921268729.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230422_203605986_1685921268729.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230422_203605986_1685921268729.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Travel Photography/IMG-20230525-WA0025_1685922600134.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG-20230525-WA0025_1685922600134.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG-20230525-WA0025_1685922600134.placeholder.jpg"
-    },
-    {
-      "width": 3406,
-      "height": 3406,
-      "path": "./photos/Travel Photography/PXL_20230422_204813307_1685921392309.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230422_204813307_1685921392309.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230422_204813307_1685921392309.placeholder.jpg"
-    },
-    {
-      "width": 3284,
-      "height": 3284,
-      "path": "./photos/Travel Photography/PXL_20230507_144137213_1685922245580.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230507_144137213_1685922245580.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230507_144137213_1685922245580.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 4000,
-      "path": "./photos/Travel Photography/photo_1685920819885.jpg",
-      "compressed_path": "./photos/Travel Photography/photo_1685920819885.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/photo_1685920819885.placeholder.jpg"
-    },
-    {
-      "width": 3284,
-      "height": 3284,
-      "path": "./photos/Travel Photography/PXL_20221218_025707145.PORTRAIT_1685920709176.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20221218_025707145.PORTRAIT_1685920709176.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20221218_025707145.PORTRAIT_1685920709176.placeholder.jpg"
-    },
-    {
-      "width": 3800,
-      "height": 3800,
-      "path": "./photos/Travel Photography/PXL_20230527_034002868_1685923101069.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230527_034002868_1685923101069.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230527_034002868_1685923101069.placeholder.jpg"
-    },
-    {
-      "width": 3184,
-      "height": 3184,
-      "path": "./photos/Travel Photography/IMG_20230429_175255407_1685921635244.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_20230429_175255407_1685921635244.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_20230429_175255407_1685921635244.placeholder.jpg"
-    },
-    {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/Travel Photography/IMG_0337_1685923164428.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_0337_1685923164428.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0337_1685923164428.placeholder.jpg"
-    },
-    {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/Travel Photography/IMG_0222_1685923024996.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_0222_1685923024996.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0222_1685923024996.placeholder.jpg"
-    },
-    {
-      "width": 2968,
-      "height": 2968,
-      "path": "./photos/Travel Photography/PXL_20230601_011417411_1685923246299.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230601_011417411_1685923246299.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230601_011417411_1685923246299.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 4000,
-      "path": "./photos/Travel Photography/photo_1685920554364.jpg",
-      "compressed_path": "./photos/Travel Photography/photo_1685920554364.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/photo_1685920554364.placeholder.jpg"
-    },
-    {
-      "width": 3230,
-      "height": 3230,
-      "path": "./photos/Travel Photography/IMG_20230506_202518330_1685922110963.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_20230506_202518330_1685922110963.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_20230506_202518330_1685922110963.placeholder.jpg"
-    },
-    {
-      "width": 3284,
-      "height": 3284,
-      "path": "./photos/Travel Photography/PXL_20221230_202001540_1685920895251.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20221230_202001540_1685920895251.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20221230_202001540_1685920895251.placeholder.jpg"
-    },
-    {
-      "width": 2850,
-      "height": 2849,
-      "path": "./photos/Travel Photography/photo_1685920610942.jpg",
-      "compressed_path": "./photos/Travel Photography/photo_1685920610942.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/photo_1685920610942.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Travel Photography/PXL_20230611_211242270.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230611_211242270.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230611_211242270.placeholder.jpg"
-    },
-    {
-      "width": 3800,
-      "height": 3800,
-      "path": "./photos/Travel Photography/IMG_20230505_182936070_1685921754406.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_20230505_182936070_1685921754406.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_20230505_182936070_1685921754406.placeholder.jpg"
-    },
-    {
-      "width": 3284,
-      "height": 3284,
-      "path": "./photos/Travel Photography/PXL_20230428_203222321_1685921428642.jpg",
-      "compressed_path": "./photos/Travel Photography/PXL_20230428_203222321_1685921428642.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/PXL_20230428_203222321_1685921428642.placeholder.jpg"
+      "placeholder_path": "./photos/Torronto/PXL_20230506_212009356.placeholder.jpg"
     }
   ],
   "\uD83D\uDCCD Montreal [12022—12023]": [
@@ -321,14 +171,6 @@
       "compressed_path": "./photos/Montreal/Snapchat-1083476173.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal/Snapchat-1083476173.placeholder.jpg"
-    },
-    {
-      "width": 1022,
-      "height": 1022,
-      "path": "./photos/Montreal/PXL_20230506_152751738_exported_291_1683517997878 (1).jpg",
-      "compressed_path": "./photos/Montreal/PXL_20230506_152751738_exported_291_1683517997878 (1).min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal/PXL_20230506_152751738_exported_291_1683517997878 (1).placeholder.jpg"
     },
     {
       "width": 4000,
@@ -619,14 +461,6 @@
       "placeholder_path": "./photos/Montreal/PXL_20230311_204432852.placeholder.jpg"
     },
     {
-      "width": 1512,
-      "height": 2688,
-      "path": "./photos/Montreal/Snapchat-50758383.jpg",
-      "compressed_path": "./photos/Montreal/Snapchat-50758383.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal/Snapchat-50758383.placeholder.jpg"
-    },
-    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Montreal/PXL_20230107_202634525.jpg",
@@ -649,14 +483,6 @@
       "compressed_path": "./photos/Montreal/IMG-20221002-WA0022.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal/IMG-20221002-WA0022.placeholder.jpg"
-    },
-    {
-      "width": 1954,
-      "height": 4000,
-      "path": "./photos/Montreal/Snapchat-1639059629.jpg",
-      "compressed_path": "./photos/Montreal/Snapchat-1639059629.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal/Snapchat-1639059629.placeholder.jpg"
     },
     {
       "width": 2268,
@@ -761,14 +587,6 @@
       "compressed_path": "./photos/Montreal/PXL_20221218_021538458.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal/PXL_20221218_021538458.placeholder.jpg"
-    },
-    {
-      "width": 1954,
-      "height": 4000,
-      "path": "./photos/Montreal/Snapchat-528972062.jpg",
-      "compressed_path": "./photos/Montreal/Snapchat-528972062.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal/Snapchat-528972062.placeholder.jpg"
     },
     {
       "width": 3072,
