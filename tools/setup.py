@@ -82,18 +82,28 @@ def sort_albums(file_path, exception_key="📷", prefix="📍 "):
         # Load JSON data
         data = json.load(file)
 
-    # Modify keys by appending prefix, except for the specified exception_key
-    data_with_modified_keys = {f"{prefix}{key}" if key != exception_key else key: value for key, value in data.items()}
+    # # Modify keys by appending prefix, except for the specified exception_key
+    # data_with_modified_keys = {f"{prefix}{key}" if key != exception_key else key: value for key, value in data.items()}
+    #
+    # print(desired_order)
+    # print(data_with_modified_keys.keys())
+    # print(data.keys())
+    # # Sort keys based on the desired order
+    # sorted_keys = sorted(data_with_modified_keys.keys(), key=lambda x: desired_order.index(x) if x in desired_order else float('inf'))
+    #
+    # # Create a new JSON object with sorted keys
+    # sorted_data = {key: data_with_modified_keys[key] for key in sorted_keys}
 
     # Sort keys based on the desired order
-    sorted_keys = sorted(data_with_modified_keys.keys(), key=lambda x: desired_order.index(x) if x in desired_order else float('inf'))
+    sorted_keys = sorted(data.keys(), key=lambda x: desired_order.index(x) if x in desired_order else float('inf'))
 
-    # Create a new JSON object with sorted keys
-    sorted_data = {key: data_with_modified_keys[key] for key in sorted_keys}
+    # Create a new JSON object with sorted keys and append prefix
+    sorted_data_with_prefix = {f"{prefix}{key}" if key != exception_key else key: data[key] for key in sorted_keys}
+
 
     # Write the sorted data back to the same JSON file
     with open(file_path, 'w') as file:
-        json.dump(sorted_data, file, indent=2)  # Adjust indent as needed
+        json.dump(sorted_data_with_prefix, file, indent=2)  # Adjust indent as needed
 
 def write_config(config):
     with open(PATH + 'config.json', 'w') as f:
