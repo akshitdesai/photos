@@ -71,10 +71,36 @@ def get_images(path):
         })
     return result
 
+def sort_albums(file_path, exception_key="📷", prefix="📍 "):
+    # Read the desired order of keys from a text file
+    with open(os.path.dirname(__file__) + '/album_order.txt', 'r') as keys_order_file:
+        # Read keys from each line and remove any leading/trailing whitespaces
+        desired_order = [line.strip() for line in keys_order_file]
+
+    # Read the JSON file
+    with open(file_path, 'r') as file:
+        # Load JSON data
+        data = json.load(file)
+
+    # Modify keys by appending prefix, except for the specified exception_key
+    data_with_modified_keys = {f"{prefix}{key}" if key != exception_key else key: value for key, value in data.items()}
+
+    # Sort keys based on the desired order
+    sorted_keys = sorted(data_with_modified_keys.keys(), key=lambda x: desired_order.index(x) if x in desired_order else float('inf'))
+
+    # Create a new JSON object with sorted keys
+    sorted_data = {key: data_with_modified_keys[key] for key in sorted_keys}
+
+    # Write the sorted data back to the same JSON file
+    with open(file_path, 'w') as file:
+        json.dump(sorted_data, file, indent=2)  # Adjust indent as needed
 
 def write_config(config):
     with open(PATH + 'config.json', 'w') as f:
         f.write(json.dumps(config, indent=2, separators=(',', ': ')))
+
+    # Example usage
+    sort_albums(PATH + 'config.json')
 
 
 def run():
