@@ -41,14 +41,6 @@
       "placeholder_path": "./photos/\ud83d\udcf7/17.placeholder.jpg"
     },
     {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/\ud83d\udcf7/16.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/16.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/16.placeholder.jpg"
-    },
-    {
       "width": 3406,
       "height": 3406,
       "path": "./photos/\ud83d\udcf7/12.jpg",
@@ -65,20 +57,20 @@
       "placeholder_path": "./photos/\ud83d\udcf7/13.placeholder.jpg"
     },
     {
-      "width": 3398,
-      "height": 3398,
-      "path": "./photos/\ud83d\udcf7/11.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/11.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/11.placeholder.jpg"
-    },
-    {
       "width": 3291,
       "height": 3291,
       "path": "./photos/\ud83d\udcf7/10.jpg",
       "compressed_path": "./photos/\ud83d\udcf7/10.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udcf7/10.placeholder.jpg"
+    },
+    {
+      "width": 1696,
+      "height": 1696,
+      "path": "./photos/\ud83d\udcf7/20.jpg",
+      "compressed_path": "./photos/\ud83d\udcf7/20.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udcf7/20.placeholder.jpg"
     },
     {
       "width": 3730,
@@ -151,6 +143,74 @@
       "compressed_path": "./photos/\ud83d\udcf7/1.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udcf7/1.placeholder.jpg"
+    }
+  ],
+  "\ud83d\udccd Saint-Philemon[12023-11]": [
+    {
+      "width": 1920,
+      "height": 1920,
+      "path": "./photos/Saint-Philemon[12023-11]/Photo 1699814561641.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/Photo 1699814561641.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/Photo 1699814561641.placeholder.jpg"
+    }
+  ],
+  "\ud83d\udccd Quebec [12022-10,12023-11]": [
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 211056290.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 211056290.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 211056290.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 203837.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 203837.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 203837.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 211216537.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 211216537.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 211216537.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Quebec [12022-10,12023-11]/Google Photos IMG 3128.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/Google Photos IMG 3128.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/Google Photos IMG 3128.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 175659397.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 175659397.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 175659397.placeholder.jpg"
+    },
+    {
+      "width": 1208,
+      "height": 1208,
+      "path": "./photos/Quebec [12022-10,12023-11]/MG 9819.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/MG 9819.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/MG 9819.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Grace Field [12023-09]": [
@@ -699,24 +759,6 @@
       "compressed_path": "./photos/Toronto [12023-05]/PXL_20230506_212009356.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Toronto [12023-05]/PXL_20230506_212009356.placeholder.jpg"
-    }
-  ],
-  "\ud83d\udccd Quebec [12022-10]": [
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Quebec [12022-10]/Google Photos IMG 3128.jpg",
-      "compressed_path": "./photos/Quebec [12022-10]/Google Photos IMG 3128.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Quebec [12022-10]/Google Photos IMG 3128.placeholder.jpg"
-    },
-    {
-      "width": 2268,
-      "height": 4032,
-      "path": "./photos/Quebec [12022-10]/Photo 3203.jpg",
-      "compressed_path": "./photos/Quebec [12022-10]/Photo 3203.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Quebec [12022-10]/Photo 3203.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Montreal [12022-12023]": [
