@@ -41,6 +41,14 @@
       "placeholder_path": "./photos/\ud83d\udcf7/17.placeholder.jpg"
     },
     {
+      "width": 1279,
+      "height": 1280,
+      "path": "./photos/\ud83d\udcf7/16.jpg",
+      "compressed_path": "./photos/\ud83d\udcf7/16.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udcf7/16.placeholder.jpg"
+    },
+    {
       "width": 3406,
       "height": 3406,
       "path": "./photos/\ud83d\udcf7/12.jpg",
@@ -63,6 +71,14 @@
       "compressed_path": "./photos/\ud83d\udcf7/10.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udcf7/10.placeholder.jpg"
+    },
+    {
+      "width": 1131,
+      "height": 1131,
+      "path": "./photos/\ud83d\udcf7/21.jpg",
+      "compressed_path": "./photos/\ud83d\udcf7/21.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udcf7/21.placeholder.jpg"
     },
     {
       "width": 1696,
@@ -148,11 +164,91 @@
   "\ud83d\udccd Saint-Philemon[12023-11]": [
     {
       "width": 1920,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/IMG_0028.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/IMG_0028.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/IMG_0028.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/IMG_9970.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/IMG_9970.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/IMG_9970.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/IMG_0566.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/IMG_0566.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/IMG_0566.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/IMG_0562.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/IMG_0562.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/IMG_0562.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/IMG_0212.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/IMG_0212.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/IMG_0212.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/IMG_9909.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/IMG_9909.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/IMG_9909.placeholder.jpg"
+    },
+    {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/_MG_0009.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/_MG_0009.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/_MG_0009.placeholder.jpg"
+    },
+    {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/_MG_9886.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/_MG_9886.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/_MG_9886.placeholder.jpg"
+    },
+    {
+      "width": 1920,
       "height": 1920,
       "path": "./photos/Saint-Philemon[12023-11]/Photo 1699814561641.jpg",
       "compressed_path": "./photos/Saint-Philemon[12023-11]/Photo 1699814561641.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Saint-Philemon[12023-11]/Photo 1699814561641.placeholder.jpg"
+    },
+    {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/_MG_0693.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/_MG_0693.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/_MG_0693.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Saint-Philemon[12023-11]/IMG_0019.jpg",
+      "compressed_path": "./photos/Saint-Philemon[12023-11]/IMG_0019.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon[12023-11]/IMG_0019.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Quebec [12022-10,12023-11]": [
@@ -173,12 +269,44 @@
       "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 203837.placeholder.jpg"
     },
     {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/_MG_9694.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/_MG_9694.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/_MG_9694.placeholder.jpg"
+    },
+    {
       "width": 2268,
       "height": 4032,
       "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04.jpg",
       "compressed_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/IMG_9681.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/IMG_9681.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/IMG_9681.placeholder.jpg"
+    },
+    {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/_MG_9383.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/_MG_9383.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/_MG_9383.placeholder.jpg"
+    },
+    {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/_MG_9427.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/_MG_9427.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/_MG_9427.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -189,6 +317,14 @@
       "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 211216537.placeholder.jpg"
     },
     {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/_MG_9598.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/_MG_9598.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/_MG_9598.placeholder.jpg"
+    },
+    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Quebec [12022-10,12023-11]/Google Photos IMG 3128.jpg",
@@ -197,12 +333,28 @@
       "placeholder_path": "./photos/Quebec [12022-10,12023-11]/Google Photos IMG 3128.placeholder.jpg"
     },
     {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/_MG_9601.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/_MG_9601.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/_MG_9601.placeholder.jpg"
+    },
+    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 175659397.jpg",
       "compressed_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 175659397.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 175659397.placeholder.jpg"
+    },
+    {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/_MG_9498.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/_MG_9498.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/_MG_9498.placeholder.jpg"
     },
     {
       "width": 1208,
