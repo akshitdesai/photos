@@ -309,6 +309,14 @@
       "placeholder_path": "./photos/Quebec [12022-10,12023-11]/MG_9598.placeholder.jpg"
     },
     {
+      "width": 1696,
+      "height": 1280,
+      "path": "./photos/Quebec [12022-10,12023-11]/MG_9820.jpg",
+      "compressed_path": "./photos/Quebec [12022-10,12023-11]/MG_9820.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec [12022-10,12023-11]/MG_9820.placeholder.jpg"
+    },
+    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Quebec [12022-10,12023-11]/PXL 2023-11-04 175659397.jpg",
@@ -342,6 +350,14 @@
     }
   ],
   "\ud83d\udccd Grace Field [12023-09]": [
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Grace Field [12023-09]/PXL_20230909_233001499.jpg",
+      "compressed_path": "./photos/Grace Field [12023-09]/PXL_20230909_233001499.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Grace Field [12023-09]/PXL_20230909_233001499.placeholder.jpg"
+    },
     {
       "width": 4608,
       "height": 3456,
