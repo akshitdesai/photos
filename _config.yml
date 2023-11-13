@@ -22,10 +22,10 @@ spacing: 10
 shuffle: false
 
 # Integer: Number of columns for square or columns
-columns: 6
+columns: 5
 
 # Integer: Max height for rows
-max_height: 600
+max_height: 500
 
 # Handle
 instagram: akshitdesai_
