@@ -19,13 +19,13 @@ layout_style: ROWS
 spacing: 10
 
 # Boolean(true|false): Shuffle the photos on the album
-shuffle: false
+shuffle: true
 
 # Integer: Number of columns for square or columns
-columns: 5
+columns: 6
 
 # Integer: Max height for rows
-max_height: 500
+max_height: 1000
 
 # Handle
 instagram: akshitdesai_
