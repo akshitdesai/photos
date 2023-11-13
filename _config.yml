@@ -25,7 +25,7 @@ shuffle: false
 columns: 5
 
 # Integer: Max height for rows
-max_height: 400
+max_height: 500
 
 # Handle
 instagram: akshitdesai_
@@ -45,7 +45,7 @@ description: Photography Portfolio
 author: Akshit R Desai
 
 # Your email if you want it to be linked on the contact page
-author_email: akshitdesai2000@gmail.com
+author_email: akshit.r.desai@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
