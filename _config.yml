@@ -25,7 +25,7 @@ shuffle: false
 columns: 6
 
 # Integer: Max height for rows
-max_height: 800
+max_height: 600
 
 # Handle
 instagram: akshitdesai_
