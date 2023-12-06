@@ -293,22 +293,6 @@
       "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photo.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photo.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Google Photos 1000013544.jpg",
-      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Google Photos 1000013544.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Google Photos 1000013544.placeholder.jpg"
-    },
-    {
-      "width": 2268,
-      "height": 2833,
-      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Google Photos 1000013534.jpg",
-      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Google Photos 1000013534.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Google Photos 1000013534.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]": [
@@ -827,14 +811,6 @@
   ],
   "\ud83d\udccd Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]": [
     {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230107_200640935.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230107_200640935.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230107_200640935.placeholder.jpg"
-    },
-    {
       "width": 1954,
       "height": 4000,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-1494640958.jpg",
@@ -915,14 +891,6 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230101-WA0004.placeholder.jpg"
     },
     {
-      "width": 3648,
-      "height": 2736,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230101_013946104.MP.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230101_013946104.MP.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230101_013946104.MP.placeholder.jpg"
-    },
-    {
       "width": 3801,
       "height": 2268,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20231008_214431566.jpg",
@@ -961,14 +929,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_031845039.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_031845039.placeholder.jpg"
-    },
-    {
-      "width": 3072,
-      "height": 4080,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_192342007.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_192342007.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_192342007.placeholder.jpg"
     },
     {
       "width": 4080,
@@ -1147,14 +1107,6 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-1306242213.placeholder.jpg"
     },
     {
-      "width": 4080,
-      "height": 3072,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221123_173414066.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221123_173414066.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221123_173414066.placeholder.jpg"
-    },
-    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230121_164921190.jpg",
@@ -1177,14 +1129,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.placeholder.jpg"
-    },
-    {
-      "width": 2268,
-      "height": 4032,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_021538458.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_021538458.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_021538458.placeholder.jpg"
     },
     {
       "width": 3072,
@@ -1293,14 +1237,6 @@
       "placeholder_path": "./photos/Matheran, MH \ud83c\uddee\ud83c\uddf3 [12022-07]/2.placeholder.jpg"
     },
     {
-      "width": 9248,
-      "height": 6936,
-      "path": "./photos/Matheran, MH \ud83c\uddee\ud83c\uddf3 [12022-07]/3.jpg",
-      "compressed_path": "./photos/Matheran, MH \ud83c\uddee\ud83c\uddf3 [12022-07]/3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Matheran, MH \ud83c\uddee\ud83c\uddf3 [12022-07]/3.placeholder.jpg"
-    },
-    {
       "width": 4624,
       "height": 2136,
       "path": "./photos/Matheran, MH \ud83c\uddee\ud83c\uddf3 [12022-07]/1.jpg",
@@ -1393,28 +1329,12 @@
       "placeholder_path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/Google Photos Oct 16.placeholder.jpg"
     },
     {
-      "width": 4608,
-      "height": 2592,
-      "path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/Google Photos Oct 17.jpg",
-      "compressed_path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/Google Photos Oct 17.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/Google Photos Oct 17.placeholder.jpg"
-    },
-    {
-      "width": 1472,
-      "height": 3264,
+      "width": 1461,
+      "height": 2443,
       "path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/IMG Oct 16 2021.jpg",
       "compressed_path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/IMG Oct 16 2021.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/IMG Oct 16 2021.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 1472,
-      "path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/'Dhairya Oct 16.jpg",
-      "compressed_path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/'Dhairya Oct 16.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]/'Dhairya Oct 16.placeholder.jpg"
     },
     {
       "width": 4624,
