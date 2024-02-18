@@ -65,20 +65,20 @@
       "placeholder_path": "./photos/\ud83d\udcf7/13.placeholder.jpg"
     },
     {
+      "width": 1280,
+      "height": 1279,
+      "path": "./photos/\ud83d\udcf7/11.jpg",
+      "compressed_path": "./photos/\ud83d\udcf7/11.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/\ud83d\udcf7/11.placeholder.jpg"
+    },
+    {
       "width": 3291,
       "height": 3291,
       "path": "./photos/\ud83d\udcf7/10.jpg",
       "compressed_path": "./photos/\ud83d\udcf7/10.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udcf7/10.placeholder.jpg"
-    },
-    {
-      "width": 3730,
-      "height": 3730,
-      "path": "./photos/\ud83d\udcf7/18.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/18.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/18.placeholder.jpg"
     },
     {
       "width": 2509,
@@ -97,12 +97,12 @@
       "placeholder_path": "./photos/\ud83d\udcf7/4.placeholder.jpg"
     },
     {
-      "width": 2968,
-      "height": 2968,
-      "path": "./photos/\ud83d\udcf7/5.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/5.min.jpg",
+      "width": 2734,
+      "height": 2734,
+      "path": "./photos/\ud83d\udcf7/Photo Dec 29 104944.jpg",
+      "compressed_path": "./photos/\ud83d\udcf7/Photo Dec 29 104944.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/5.placeholder.jpg"
+      "placeholder_path": "./photos/\ud83d\udcf7/Photo Dec 29 104944.placeholder.jpg"
     },
     {
       "width": 3284,
@@ -143,6 +143,96 @@
       "compressed_path": "./photos/\ud83d\udcf7/1.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/\ud83d\udcf7/1.placeholder.jpg"
+    }
+  ],
+  "\ud83d\udccd Dubai \ud83c\udde6\ud83c\uddea [12024-01]": [
+    {
+      "width": 1440,
+      "height": 1080,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dubai skyline.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dubai skyline.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dubai skyline.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 (2).jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 (2).min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 (2).placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 copy.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 copy.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 copy.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 2023.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 2023.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 2023.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dec 29 Photo.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dec 29 Photo.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dec 29 Photo.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104500.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104500.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104500.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024.placeholder.jpg"
+    },
+    {
+      "width": 1931,
+      "height": 3432,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 (1).jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 (1).min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 (1).placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104837.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104837.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104837.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 102113797.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 102113797.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 102113797.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]": [
@@ -875,14 +965,6 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_205346523.placeholder.jpg"
     },
     {
-      "width": 3000,
-      "height": 4000,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG_20221211_163712.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG_20221211_163712.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG_20221211_163712.placeholder.jpg"
-    },
-    {
       "width": 1500,
       "height": 2000,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230101-WA0004.jpg",
@@ -955,28 +1037,12 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221126_153037887.placeholder.jpg"
     },
     {
-      "width": 1600,
-      "height": 900,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230124-WA0001.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230124-WA0001.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230124-WA0001.placeholder.jpg"
-    },
-    {
       "width": 4000,
       "height": 1954,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-381889550.jpg",
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-381889550.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-381889550.placeholder.jpg"
-    },
-    {
-      "width": 3072,
-      "height": 4080,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221221_195931662.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221221_195931662.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221221_195931662.placeholder.jpg"
     },
     {
       "width": 938,
@@ -993,14 +1059,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-85204950.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-85204950.placeholder.jpg"
-    },
-    {
-      "width": 3648,
-      "height": 2736,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221202_043728798.MP.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221202_043728798.MP.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221202_043728798.MP.placeholder.jpg"
     },
     {
       "width": 4080,
@@ -1083,14 +1141,6 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230202_195931217.placeholder.jpg"
     },
     {
-      "width": 3648,
-      "height": 2736,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_024341244.MP.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_024341244.MP.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_024341244.MP.placeholder.jpg"
-    },
-    {
       "width": 673,
       "height": 1024,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20220904-WA0010.jpg",
@@ -1115,20 +1165,20 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230121_164921190.placeholder.jpg"
     },
     {
-      "width": 4080,
-      "height": 3072,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221117_182945028.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221117_182945028.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221117_182945028.placeholder.jpg"
-    },
-    {
       "width": 3072,
       "height": 4080,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.jpg",
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.placeholder.jpg"
+    },
+    {
+      "width": 1134,
+      "height": 2016,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Photo Feb 18.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Photo Feb 18.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Photo Feb 18.placeholder.jpg"
     },
     {
       "width": 3072,
@@ -1177,14 +1227,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230107_200718951.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230107_200718951.placeholder.jpg"
-    },
-    {
-      "width": 1024,
-      "height": 768,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20220904-WA0003.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20220904-WA0003.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20220904-WA0003.placeholder.jpg"
     },
     {
       "width": 2268,
@@ -1245,38 +1287,54 @@
       "placeholder_path": "./photos/Matheran, MH \ud83c\uddee\ud83c\uddf3 [12022-07]/1.placeholder.jpg"
     }
   ],
-  "\ud83d\udccd Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]": [
+  "\ud83d\udccd Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]": [
     {
       "width": 4624,
       "height": 2136,
-      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/2021-02-28 18.04.18 Photo.jpg",
-      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/2021-02-28 18.04.18 Photo.min.jpg",
+      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/2021-02-28 18.04.18 Photo.jpg",
+      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/2021-02-28 18.04.18 Photo.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/2021-02-28 18.04.18 Photo.placeholder.jpg"
+      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/2021-02-28 18.04.18 Photo.placeholder.jpg"
     },
     {
       "width": 4000,
       "height": 1844,
-      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/Google Photos June 5.jpg",
-      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/Google Photos June 5.min.jpg",
+      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Google Photos June 5.jpg",
+      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Google Photos June 5.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/Google Photos June 5.placeholder.jpg"
+      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Google Photos June 5.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Photo Jan 6 2024.jpg",
+      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Photo Jan 6 2024.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Photo Jan 6 2024.placeholder.jpg"
     },
     {
       "width": 3717,
       "height": 2135,
-      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/'Photo Feb 28.jpg",
-      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/'Photo Feb 28.min.jpg",
+      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/'Photo Feb 28.jpg",
+      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/'Photo Feb 28.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/'Photo Feb 28.placeholder.jpg"
+      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/'Photo Feb 28.placeholder.jpg"
     },
     {
       "width": 4624,
       "height": 2136,
-      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/'Photo Feb 28 (1)..jpg",
-      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/'Photo Feb 28 (1)..min.jpg",
+      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/'Photo Feb 28 (1)..jpg",
+      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/'Photo Feb 28 (1)..min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06]/'Photo Feb 28 (1)..placeholder.jpg"
+      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/'Photo Feb 28 (1)..placeholder.jpg"
+    },
+    {
+      "width": 900,
+      "height": 1600,
+      "path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Photos Feb 18.jpg",
+      "compressed_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Photos Feb 18.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bengaluru, KA \ud83c\uddee\ud83c\uddf3 [12021-[02-04],12022-06,1024-01]/Photos Feb 18.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Udaipur, RJ \ud83c\uddee\ud83c\uddf3 [12021-10]": [
