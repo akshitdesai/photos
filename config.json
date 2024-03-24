@@ -27,14 +27,6 @@
     {
       "width": 4032,
       "height": 2268,
-      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 copy.jpg",
-      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 copy.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 copy.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
       "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 2023.jpg",
       "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 2023.min.jpg",
       "compressed": true,
@@ -197,14 +189,6 @@
       "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/PXL 2023-11-04.placeholder.jpg"
     },
     {
-      "width": 1696,
-      "height": 1696,
-      "path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/14.jpg",
-      "compressed_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/14.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/14.placeholder.jpg"
-    },
-    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/PXL 2023-11-04 211216537.jpg",
@@ -219,14 +203,6 @@
       "compressed_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/MG_9383.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/MG_9383.placeholder.jpg"
-    },
-    {
-      "width": 1280,
-      "height": 1279,
-      "path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/11.jpg",
-      "compressed_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/11.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/11.placeholder.jpg"
     },
     {
       "width": 1696,
@@ -481,14 +457,6 @@
       "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-1338029298.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-1338029298.placeholder.jpg"
-    },
-    {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/13.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/13.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/13.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -799,14 +767,6 @@
       "placeholder_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-437908897.placeholder.jpg"
     },
     {
-      "width": 3284,
-      "height": 3284,
-      "path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/7.jpg",
-      "compressed_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/7.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/7.placeholder.jpg"
-    },
-    {
       "width": 1022,
       "height": 1022,
       "path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/2.jpg",
@@ -1019,22 +979,6 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221126_153037887.placeholder.jpg"
     },
     {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/10.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/10.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/10.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 1954,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-381889550.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-381889550.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-381889550.placeholder.jpg"
-    },
-    {
       "width": 938,
       "height": 1920,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-1589503870.jpg",
@@ -1081,14 +1025,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230422-WA0017.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230422-WA0017.placeholder.jpg"
-    },
-    {
-      "width": 1512,
-      "height": 2688,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-379930035.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-379930035.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat-379930035.placeholder.jpg"
     },
     {
       "width": 4080,
@@ -1153,14 +1089,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230121_164921190.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230121_164921190.placeholder.jpg"
-    },
-    {
-      "width": 3072,
-      "height": 4080,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221211_214701785.placeholder.jpg"
     },
     {
       "width": 1134,
