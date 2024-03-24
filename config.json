@@ -1,150 +1,4 @@
 {
-  "\ud83d\udcf7": [
-    {
-      "width": 2928,
-      "height": 2928,
-      "path": "./photos/\ud83d\udcf7/8.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/8.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/8.placeholder.jpg"
-    },
-    {
-      "width": 3041,
-      "height": 3041,
-      "path": "./photos/\ud83d\udcf7/9.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/9.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/9.placeholder.jpg"
-    },
-    {
-      "width": 1696,
-      "height": 1696,
-      "path": "./photos/\ud83d\udcf7/14.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/14.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/14.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/\ud83d\udcf7/15.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/15.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/15.placeholder.jpg"
-    },
-    {
-      "width": 1464,
-      "height": 1683,
-      "path": "./photos/\ud83d\udcf7/17.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/17.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/17.placeholder.jpg"
-    },
-    {
-      "width": 1131,
-      "height": 1131,
-      "path": "./photos/\ud83d\udcf7/16.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/16.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/16.placeholder.jpg"
-    },
-    {
-      "width": 3406,
-      "height": 3406,
-      "path": "./photos/\ud83d\udcf7/12.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/12.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/12.placeholder.jpg"
-    },
-    {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/\ud83d\udcf7/13.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/13.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/13.placeholder.jpg"
-    },
-    {
-      "width": 1280,
-      "height": 1279,
-      "path": "./photos/\ud83d\udcf7/11.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/11.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/11.placeholder.jpg"
-    },
-    {
-      "width": 3291,
-      "height": 3291,
-      "path": "./photos/\ud83d\udcf7/10.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/10.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/10.placeholder.jpg"
-    },
-    {
-      "width": 2509,
-      "height": 2509,
-      "path": "./photos/\ud83d\udcf7/19.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/19.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/19.placeholder.jpg"
-    },
-    {
-      "width": 2268,
-      "height": 2268,
-      "path": "./photos/\ud83d\udcf7/4.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/4.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/4.placeholder.jpg"
-    },
-    {
-      "width": 2734,
-      "height": 2734,
-      "path": "./photos/\ud83d\udcf7/Photo Dec 29 104944.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/Photo Dec 29 104944.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/Photo Dec 29 104944.placeholder.jpg"
-    },
-    {
-      "width": 3284,
-      "height": 3284,
-      "path": "./photos/\ud83d\udcf7/7.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/7.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/7.placeholder.jpg"
-    },
-    {
-      "width": 2973,
-      "height": 2973,
-      "path": "./photos/\ud83d\udcf7/6.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/6.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/6.placeholder.jpg"
-    },
-    {
-      "width": 1022,
-      "height": 1022,
-      "path": "./photos/\ud83d\udcf7/2.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/2.placeholder.jpg"
-    },
-    {
-      "width": 2849,
-      "height": 2849,
-      "path": "./photos/\ud83d\udcf7/3.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/3.placeholder.jpg"
-    },
-    {
-      "width": 3088,
-      "height": 3088,
-      "path": "./photos/\ud83d\udcf7/1.jpg",
-      "compressed_path": "./photos/\ud83d\udcf7/1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/\ud83d\udcf7/1.placeholder.jpg"
-    }
-  ],
   "\ud83d\udccd Dubai \ud83c\udde6\ud83c\uddea [12024-01]": [
     {
       "width": 1440,
@@ -219,6 +73,14 @@
       "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Jan 30 2024 (1).placeholder.jpg"
     },
     {
+      "width": 2734,
+      "height": 2734,
+      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104944.jpg",
+      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104944.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104944.placeholder.jpg"
+    },
+    {
       "width": 5568,
       "height": 4176,
       "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dub.jpg",
@@ -285,6 +147,14 @@
       "placeholder_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_0212.placeholder.jpg"
     },
     {
+      "width": 1131,
+      "height": 1131,
+      "path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/16.jpg",
+      "compressed_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/16.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/16.placeholder.jpg"
+    },
+    {
       "width": 1920,
       "height": 1280,
       "path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_9909.jpg",
@@ -327,6 +197,14 @@
       "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/PXL 2023-11-04.placeholder.jpg"
     },
     {
+      "width": 1696,
+      "height": 1696,
+      "path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/14.jpg",
+      "compressed_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/14.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/14.placeholder.jpg"
+    },
+    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/PXL 2023-11-04 211216537.jpg",
@@ -341,6 +219,14 @@
       "compressed_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/MG_9383.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/MG_9383.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 1279,
+      "path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/11.jpg",
+      "compressed_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/11.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]/11.placeholder.jpg"
     },
     {
       "width": 1696,
@@ -417,6 +303,14 @@
       "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont Tremblant Trip Aug 26 (1)..min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont Tremblant Trip Aug 26 (1)..placeholder.jpg"
+    },
+    {
+      "width": 2509,
+      "height": 2509,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/19.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/19.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/19.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -589,6 +483,14 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-1338029298.placeholder.jpg"
     },
     {
+      "width": 3291,
+      "height": 3291,
+      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/13.jpg",
+      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/13.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/13.placeholder.jpg"
+    },
+    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_012853059.jpg",
@@ -661,6 +563,14 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230527_033824321.placeholder.jpg"
     },
     {
+      "width": 2973,
+      "height": 2973,
+      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/6.jpg",
+      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/6.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/6.placeholder.jpg"
+    },
+    {
       "width": 3840,
       "height": 2160,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG-20230526-WA0005.jpeg",
@@ -685,12 +595,28 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/'Photos Aug 9.placeholder.jpg"
     },
     {
+      "width": 2849,
+      "height": 2849,
+      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/3.jpg",
+      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/3.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/3.placeholder.jpg"
+    },
+    {
       "width": 3072,
       "height": 4080,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230523_002924176.jpg",
       "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230523_002924176.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230523_002924176.placeholder.jpg"
+    },
+    {
+      "width": 3088,
+      "height": 3088,
+      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/1.jpg",
+      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/1.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -824,6 +750,14 @@
     },
     {
       "width": 2268,
+      "height": 2268,
+      "path": "./photos/Banff, AB \ud83c\udde8\ud83c\udde6 [12023-06]/4.jpg",
+      "compressed_path": "./photos/Banff, AB \ud83c\udde8\ud83c\udde6 [12023-06]/4.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Banff, AB \ud83c\udde8\ud83c\udde6 [12023-06]/4.placeholder.jpg"
+    },
+    {
+      "width": 2268,
       "height": 4032,
       "path": "./photos/Banff, AB \ud83c\udde8\ud83c\udde6 [12023-06]/PXL_20230702_000717196.jpg",
       "compressed_path": "./photos/Banff, AB \ud83c\udde8\ud83c\udde6 [12023-06]/PXL_20230702_000717196.min.jpg",
@@ -863,6 +797,22 @@
       "compressed_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-437908897.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-437908897.placeholder.jpg"
+    },
+    {
+      "width": 3284,
+      "height": 3284,
+      "path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/7.jpg",
+      "compressed_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/7.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/7.placeholder.jpg"
+    },
+    {
+      "width": 1022,
+      "height": 1022,
+      "path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/2.jpg",
+      "compressed_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/2.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/2.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]": [
@@ -933,6 +883,14 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_201524961.placeholder.jpg"
     },
     {
+      "width": 2928,
+      "height": 2928,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/8.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/8.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/8.placeholder.jpg"
+    },
+    {
       "width": 3072,
       "height": 4080,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230506_113055124.jpg",
@@ -957,6 +915,14 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_205346523.placeholder.jpg"
     },
     {
+      "width": 3041,
+      "height": 3041,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/9.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/9.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/9.placeholder.jpg"
+    },
+    {
       "width": 1500,
       "height": 2000,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230101-WA0004.jpg",
@@ -971,6 +937,22 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20231008_214431566.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20231008_214431566.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/15.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/15.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/15.placeholder.jpg"
+    },
+    {
+      "width": 1464,
+      "height": 1683,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/17.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/17.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/17.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -1005,6 +987,14 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_031845039.placeholder.jpg"
     },
     {
+      "width": 3406,
+      "height": 3406,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/12.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/12.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/12.placeholder.jpg"
+    },
+    {
       "width": 4080,
       "height": 3072,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230428_225627757.jpg",
@@ -1027,6 +1017,14 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221126_153037887.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221126_153037887.placeholder.jpg"
+    },
+    {
+      "width": 3291,
+      "height": 3291,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/10.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/10.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/10.placeholder.jpg"
     },
     {
       "width": 4000,
