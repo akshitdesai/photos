@@ -1,4 +1,32 @@
 {
+  "\ud83d\udccd Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]": [],
+  "\ud83d\udccd Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]": [
+    {
+      "width": 1512,
+      "height": 2688,
+      "path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/Snapchat-1536133035.jpg",
+      "compressed_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/Snapchat-1536133035.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/Snapchat-1536133035.placeholder.jpg"
+    },
+    {
+      "width": 1512,
+      "height": 2688,
+      "path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/Snapchat-924067223.jpg",
+      "compressed_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/Snapchat-924067223.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/Snapchat-924067223.placeholder.jpg"
+    },
+    {
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/PXL_20230506_212009356.jpg",
+      "compressed_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/PXL_20230506_212009356.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05,12024-05]/PXL_20230506_212009356.placeholder.jpg"
+    }
+  ],
+  "\ud83d\udccd Notre-Dame-des-Bois, QC \ud83c\udde8\ud83c\udde6 [12024-05]": [],
   "\ud83d\udccd Dubai \ud83c\udde6\ud83c\uddea [12024-01]": [
     {
       "width": 1440,
@@ -109,14 +137,6 @@
     {
       "width": 1920,
       "height": 1280,
-      "path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_9970.jpg",
-      "compressed_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_9970.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_9970.placeholder.jpg"
-    },
-    {
-      "width": 1920,
-      "height": 1280,
       "path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_0566.jpg",
       "compressed_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_0566.min.jpg",
       "compressed": true,
@@ -145,22 +165,6 @@
       "compressed_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/16.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/16.placeholder.jpg"
-    },
-    {
-      "width": 1920,
-      "height": 1280,
-      "path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_9909.jpg",
-      "compressed_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_9909.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/IMG_9909.placeholder.jpg"
-    },
-    {
-      "width": 1696,
-      "height": 1280,
-      "path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/MG_9886.jpg",
-      "compressed_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/MG_9886.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Saint-Philemon, QC \ud83c\udde8\ud83c\udde6 [12023-11]/MG_9886.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Quebec, QC \ud83c\udde8\ud83c\udde6 [12022-10,12023-11]": [
@@ -323,14 +327,6 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230626_014344685.placeholder.jpg"
     },
     {
-      "width": 4080,
-      "height": 3072,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230515_042621427.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230515_042621427.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230515_042621427.placeholder.jpg"
-    },
-    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230609_042153403.jpg",
@@ -377,14 +373,6 @@
       "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230604_024202956.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230604_024202956.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_010534199.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_010534199.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_010534199.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -443,20 +431,20 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-1733257168.placeholder.jpg"
     },
     {
-      "width": 1512,
-      "height": 2688,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-1338029298.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-1338029298.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-1338029298.placeholder.jpg"
-    },
-    {
       "width": 4032,
       "height": 2268,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_012853059.jpg",
       "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_012853059.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_012853059.placeholder.jpg"
+    },
+    {
+      "width": -1,
+      "height": -1,
+      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0320.jpg",
+      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0320.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0320.placeholder.jpg"
     },
     {
       "width": 2268,
@@ -475,12 +463,12 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230604_022657969.placeholder.jpg"
     },
     {
-      "width": 1512,
-      "height": 2688,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-650430112.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-650430112.min.jpg",
+      "width": -1,
+      "height": -1,
+      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0245.jpg",
+      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0245.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/Snapchat-650430112.placeholder.jpg"
+      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0245.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -751,32 +739,6 @@
       "placeholder_path": "./photos/Niagara Falls, ON \ud83c\udde8\ud83c\udde6 [12023-05]/2.placeholder.jpg"
     }
   ],
-  "\ud83d\udccd Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]": [
-    {
-      "width": 1512,
-      "height": 2688,
-      "path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-1536133035.jpg",
-      "compressed_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-1536133035.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-1536133035.placeholder.jpg"
-    },
-    {
-      "width": 1512,
-      "height": 2688,
-      "path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-924067223.jpg",
-      "compressed_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-924067223.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/Snapchat-924067223.placeholder.jpg"
-    },
-    {
-      "width": 4080,
-      "height": 3072,
-      "path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/PXL_20230506_212009356.jpg",
-      "compressed_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/PXL_20230506_212009356.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Toronto, ON \ud83c\udde8\ud83c\udde6 [12023-05]/PXL_20230506_212009356.placeholder.jpg"
-    }
-  ],
   "\ud83d\udccd Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]": [
     {
       "width": 1024,
@@ -851,14 +813,6 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/9.placeholder.jpg"
     },
     {
-      "width": 1500,
-      "height": 2000,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230101-WA0004.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230101-WA0004.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230101-WA0004.placeholder.jpg"
-    },
-    {
       "width": 3801,
       "height": 2268,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20231008_214431566.jpg",
@@ -873,14 +827,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/15.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/15.placeholder.jpg"
-    },
-    {
-      "width": 1464,
-      "height": 1683,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/17.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/17.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/17.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -905,14 +851,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230122-WA0001.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20230122-WA0001.placeholder.jpg"
-    },
-    {
-      "width": 2268,
-      "height": 4032,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_031845039.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_031845039.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221218_031845039.placeholder.jpg"
     },
     {
       "width": 3406,
