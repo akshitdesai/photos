@@ -373,14 +373,6 @@
   ],
   "\ud83d\udccd Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]": [
     {
-      "width": 4032,
-      "height": 3024,
-      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.jpeg",
-      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.placeholder.jpeg"
-    },
-    {
       "width": 4608,
       "height": 3456,
       "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/IMG 20230909 173153.jpg",
@@ -395,14 +387,6 @@
       "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photo.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photo.placeholder.jpg"
-    },
-    {
-      "width": 3072,
-      "height": 4080,
-      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.jpg",
-      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]": [
@@ -437,22 +421,6 @@
       "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL 20230826 171924852.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL 20230826 171924852.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.jpg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.placeholder.jpg"
-    },
-    {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.jpg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]": [
