@@ -415,14 +415,6 @@
       "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230826_190703820.jpg``` -> ```Photo Aug 26.placeholder.jpg"
     },
     {
-      "width": 4032,
-      "height": 3024,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.jpeg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.placeholder.jpeg"
-    },
-    {
       "width": 3378,
       "height": 4504,
       "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont tremblent.jpg",
@@ -453,6 +445,14 @@
       "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.placeholder.jpg"
+    },
+    {
+      "width": -1,
+      "height": -1,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]": [
