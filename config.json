@@ -375,10 +375,10 @@
     {
       "width": 4032,
       "height": 3024,
-      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photos 3623.jpeg",
-      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photos 3623.min.jpeg",
+      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.jpeg",
+      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.min.jpeg",
       "compressed": true,
-      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photos 3623.placeholder.jpeg"
+      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.placeholder.jpeg"
     },
     {
       "width": 4608,
@@ -399,10 +399,10 @@
     {
       "width": 3072,
       "height": 4080,
-      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230910_010023034.jpg",
-      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230910_010023034.min.jpg",
+      "path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.jpg",
+      "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230910_010023034.placeholder.jpg"
+      "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]": [
@@ -416,11 +416,11 @@
     },
     {
       "width": 4032,
-      "height": 2268,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230910_195058058.jpg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230910_195058058.min.jpg",
+      "height": 3024,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.jpeg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.min.jpeg",
       "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230910_195058058.placeholder.jpg"
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/1.placeholder.jpeg"
     },
     {
       "width": 3378,
@@ -429,14 +429,6 @@
       "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont tremblent.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont tremblent.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 3024,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/IMG_3686.jpeg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/IMG_3686.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/IMG_3686.placeholder.jpeg"
     },
     {
       "width": 3072,
@@ -453,6 +445,14 @@
       "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL 20230826 171924852.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL 20230826 171924852.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/2.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]": [
