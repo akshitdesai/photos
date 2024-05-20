@@ -1,14 +1,6 @@
 {
   "\ud83d\udccd Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]": [
     {
-      "width": 2268,
-      "height": 3400,
-      "path": "./photos/Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240518_025737174.jpg",
-      "compressed_path": "./photos/Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240518_025737174.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240518_025737174.placeholder.jpg"
-    },
-    {
       "width": 3730,
       "height": 2268,
       "path": "./photos/Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240517_220802431.jpg",
@@ -132,6 +124,14 @@
     }
   ],
   "\ud83d\udccd Notre-Dame-des-Bois, QC \ud83c\udde8\ud83c\udde6 [12024-05]": [
+    {
+      "width": 5328,
+      "height": 4000,
+      "path": "./photos/Notre-Dame-des-Bois, QC \ud83c\udde8\ud83c\udde6 [12024-05]/IMG_0615.jpg",
+      "compressed_path": "./photos/Notre-Dame-des-Bois, QC \ud83c\udde8\ud83c\udde6 [12024-05]/IMG_0615.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Notre-Dame-des-Bois, QC \ud83c\udde8\ud83c\udde6 [12024-05]/IMG_0615.placeholder.jpg"
+    },
     {
       "width": 3072,
       "height": 4080,
@@ -593,14 +593,6 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230617_012853059.placeholder.jpg"
     },
     {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0320.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0320.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0320.placeholder.jpg"
-    },
-    {
       "width": 2268,
       "height": 4032,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230604_012954286.jpg",
@@ -615,14 +607,6 @@
       "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230604_022657969.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/PXL_20230604_022657969.placeholder.jpg"
-    },
-    {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0245.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0245.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08]]/IMG_0245.placeholder.jpg"
     },
     {
       "width": 4032,
@@ -973,14 +957,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/9.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/9.placeholder.jpg"
-    },
-    {
-      "width": -1,
-      "height": -1,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG_20240408_170308_616.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG_20240408_170308_616.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG_20240408_170308_616.placeholder.jpg"
     },
     {
       "width": 3801,
