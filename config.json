@@ -1,4 +1,46 @@
 {
+  "\ud83d\udccd Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]": [
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 26.jpg",
+      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 26.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 26.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 25.jpg",
+      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 25.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 25.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 2965,
+      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Sept 26.jpg",
+      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Sept 26.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Sept 26.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 28.jpg",
+      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 28.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 28.placeholder.jpg"
+    },
+    {
+      "width": 4016,
+      "height": 2252,
+      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Photo Sept 26 from Google Photos.jpg",
+      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Photo Sept 26 from Google Photos.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Photo Sept 26 from Google Photos.placeholder.jpg"
+    }
+  ],
   "\ud83d\udccd Kamloops, BC \ud83c\udde8\ud83c\udde6 [12024-08]": [
     {
       "width": 2268,
@@ -291,6 +333,14 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230612_005701849.placeholder.jpg"
     },
     {
+      "width": 3134,
+      "height": 2256,
+      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/Rb.jpg",
+      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/Rb.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/Rb.placeholder.jpg"
+    },
+    {
       "width": 3072,
       "height": 4080,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230519_213548276.jpg",
@@ -331,14 +381,6 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230527_033824321.placeholder.jpg"
     },
     {
-      "width": 3840,
-      "height": 2160,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/IMG-20230526-WA0005.jpeg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/IMG-20230526-WA0005.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/IMG-20230526-WA0005.placeholder.jpeg"
-    },
-    {
       "width": 3072,
       "height": 4080,
       "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230523_010407056.jpg",
@@ -369,22 +411,6 @@
       "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230523_002924176.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230523_002924176.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230728_001231922.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230728_001231922.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230728_001231922.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230731_013906928.jpg",
-      "compressed_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230731_013906928.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230731_013906928.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]": [
@@ -546,14 +572,6 @@
     }
   ],
   "\ud83d\udccd Dubai \ud83c\udde6\ud83c\uddea [12024-01]": [
-    {
-      "width": 1440,
-      "height": 1080,
-      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dubai skyline.jpg",
-      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dubai skyline.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dubai skyline.placeholder.jpg"
-    },
     {
       "width": 4032,
       "height": 2268,
@@ -947,14 +965,6 @@
     {
       "width": 4080,
       "height": 3072,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221117_183031393.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221117_183031393.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221117_183031393.placeholder.jpg"
-    },
-    {
-      "width": 4080,
-      "height": 3072,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_201524961.jpg",
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221230_201524961.min.jpg",
       "compressed": true,
@@ -1047,14 +1057,6 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230428_225627757.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230428_225627757.placeholder.jpg"
-    },
-    {
-      "width": 4080,
-      "height": 3072,
-      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221126_153037887.jpg",
-      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221126_153037887.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20221126_153037887.placeholder.jpg"
     },
     {
       "width": 1512,
@@ -1383,48 +1385,6 @@
       "compressed_path": "./photos/Anand, GJ \ud83c\uddee\ud83c\uddf3 [12017-12021]/IMG-20220827-WA0003.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Anand, GJ \ud83c\uddee\ud83c\uddf3 [12017-12021]/IMG-20220827-WA0003.placeholder.jpg"
-    }
-  ],
-  "\ud83d\udccd Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]": [
-    {
-      "width": 2268,
-      "height": 4032,
-      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 26.jpg",
-      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 26.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 26.placeholder.jpg"
-    },
-    {
-      "width": 2268,
-      "height": 4032,
-      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 25.jpg",
-      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 25.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 25.placeholder.jpg"
-    },
-    {
-      "width": 2268,
-      "height": 2965,
-      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Sept 26.jpg",
-      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Sept 26.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Sept 26.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 28.jpg",
-      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 28.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Cover Photo Sept 28.placeholder.jpg"
-    },
-    {
-      "width": 4016,
-      "height": 2252,
-      "path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Photo Sept 26 from Google Photos.jpg",
-      "compressed_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Photo Sept 26 from Google Photos.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]/Photo Sept 26 from Google Photos.placeholder.jpg"
     }
   ]
 }
