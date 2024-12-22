@@ -547,6 +547,32 @@
       "placeholder_path": "./photos/Vancouver, BC \ud83c\udde8\ud83c\udde6 [12023-[05-08],12024-06~]/PXL_20230523_002924176.placeholder.jpg"
     }
   ],
+  "\ud83d\udccd Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]": [
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_183951456.jpg",
+      "compressed_path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_183951456.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_183951456.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_221200497.jpg",
+      "compressed_path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_221200497.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_221200497.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_191422471.jpg",
+      "compressed_path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_191422471.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orford, QC \ud83c\udde8\ud83c\udde6 [12024-05]/PXL_20240525_191422471.placeholder.jpg"
+    }
+  ],
   "\ud83d\udccd Windsor, ON \ud83c\udde8\ud83c\udde6 [12024-05]": [
     {
       "width": 3730,
