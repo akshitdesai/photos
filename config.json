@@ -1,4 +1,138 @@
 {
+  "\ud83d\udccd Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]": [
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_171633911.jpg",
+      "compressed_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_171633911.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_171633911.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_171801664.jpg",
+      "compressed_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_171801664.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_171801664.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_173110834.jpg",
+      "compressed_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_173110834.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_173110834.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_172722921.jpg",
+      "compressed_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_172722921.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_172722921.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_164251945.jpg",
+      "compressed_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_164251945.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_164251945.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 1813,
+      "path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_155930423.jpg",
+      "compressed_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_155930423.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ottawa, ON \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_155930423.placeholder.jpg"
+    }
+  ],
+  "\ud83d\udccd Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]": [
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241214_154057829.jpg",
+      "compressed_path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241214_154057829.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241214_154057829.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241214_152923875.jpg",
+      "compressed_path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241214_152923875.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241214_152923875.placeholder.jpg"
+    },
+    {
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_204642093.jpg",
+      "compressed_path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_204642093.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lac-des-Plages, QC \ud83c\udde8\ud83c\udde6 [12024-12]/PXL_20241213_204642093.placeholder.jpg"
+    }
+  ],
+  "\ud83d\udccd Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]": [
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20230826_190703820.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20230826_190703820.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20230826_190703820.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_190722330.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_190722330.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_190722330.placeholder.jpg"
+    },
+    {
+      "width": 3378,
+      "height": 4504,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/Mont tremblent.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/Mont tremblent.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/Mont tremblent.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_190548695.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_190548695.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_190548695.placeholder.jpg"
+    },
+    {
+      "width": 3072,
+      "height": 4080,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/Mont Tremblant01.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/Mont Tremblant01.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/Mont Tremblant01.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_191518746.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_191518746.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL_20241214_191518746.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL 20230826 171924852.jpg",
+      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL 20230826 171924852.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09,12024-12]/PXL 20230826 171924852.placeholder.jpg"
+    }
+  ],
   "\ud83d\udccd Austin, TX \ud83c\uddfa\ud83c\uddf8 [12024-09]": [
     {
       "width": 2268,
@@ -605,14 +739,6 @@
       "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104944.placeholder.jpg"
     },
     {
-      "width": 5568,
-      "height": 4176,
-      "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dub.jpg",
-      "compressed_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dub.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Dub.placeholder.jpg"
-    },
-    {
       "width": 2268,
       "height": 4032,
       "path": "./photos/Dubai \ud83c\udde6\ud83c\uddea [12024-01]/Photo Dec 29 104837.jpg",
@@ -753,40 +879,6 @@
       "compressed_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photo.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Grace Field, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Photo.placeholder.jpg"
-    }
-  ],
-  "\ud83d\udccd Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]": [
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230826_190703820.jpg``` -> ```Photo Aug 26.jpg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230826_190703820.jpg``` -> ```Photo Aug 26.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL_20230826_190703820.jpg``` -> ```Photo Aug 26.placeholder.jpg"
-    },
-    {
-      "width": 3378,
-      "height": 4504,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont tremblent.jpg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont tremblent.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont tremblent.placeholder.jpg"
-    },
-    {
-      "width": 3072,
-      "height": 4080,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont Tremblant Trip Aug 26 (1)..jpg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont Tremblant Trip Aug 26 (1)..min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/Mont Tremblant Trip Aug 26 (1)..placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 2268,
-      "path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL 20230826 171924852.jpg",
-      "compressed_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL 20230826 171924852.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Mont-Tremblant, QC \ud83c\udde8\ud83c\udde6 [12023-09]/PXL 20230826 171924852.placeholder.jpg"
     }
   ],
   "\ud83d\udccd Banff, AB \ud83c\udde8\ud83c\udde6 [12023-06]": [
@@ -955,6 +1047,14 @@
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/IMG-20220910-WA0021.placeholder.jpg"
     },
     {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_225419823.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_225419823.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_225419823.placeholder.jpg"
+    },
+    {
       "width": 3072,
       "height": 4080,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230114_222110956.jpg",
@@ -1117,6 +1217,14 @@
     {
       "width": 2268,
       "height": 4032,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_231837622.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_231837622.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_231837622.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
       "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230202_195931217.jpg",
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20230202_195931217.min.jpg",
       "compressed": true,
@@ -1153,6 +1261,14 @@
       "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat Photo.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/Snapchat Photo.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_231331283.jpg",
+      "compressed_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_231331283.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Montreal, QC \ud83c\udde8\ud83c\udde6 [12022-12024]/PXL_20241215_231331283.placeholder.jpg"
     },
     {
       "width": 3072,
